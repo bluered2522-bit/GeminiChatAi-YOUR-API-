@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeminiChat</string>
+
+    <string name="login_title">Masuk</string>
+    <string name="login_subtitle">Login untuk lanjut ngobrol sama AI</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_login">Masuk</string>
+    <string name="no_account_yet">Belum punya akun? Daftar</string>
+
+    <string name="register_title">Daftar Akun</string>
+    <string name="confirm_password_hint">Konfirmasi Password</string>
+    <string name="btn_register">Daftar</string>
+    <string name="have_account">Sudah punya akun? Masuk</string>
+
+    <string name="new_chat">Chat Baru</string>
+    <string name="history">Riwayat</string>
+    <string name="settings">Pengaturan</string>
+    <string name="logout">Keluar</string>
+    <string name="message_hint">Tulis pesan…</string>
+    <string name="attach_image">Lampirkan gambar</string>
+
+    <string name="settings_title">Pengaturan</string>
+    <string name="gemini_api_key">Gemini API Key</string>
+    <string name="gemini_model">Nama Model Gemini</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="save">Simpan</string>
+
+    <string name="history_title">Riwayat Chat</string>
+    <string name="empty_history">Belum ada riwayat chat</string>
+</resources>
